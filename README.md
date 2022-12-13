@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thashadowking
 - 👀 I’m interested in Red Teaming
-- 🌱 I’m currently learning Python, RHEL, and Networking
+- 🌱 I’m currently learning Python, Go, and Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me | Twitter @ThaShadowKing_
 
